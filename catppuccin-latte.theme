@@ -1,4 +1,4 @@
-base: "DARK"
+base: "LIGHT"
 colors:
   accent: "#ff8839ef"           # mauve
   accentVariant: "#ff4c4f69"    # text
