@@ -5,7 +5,7 @@ colors:
   secondary: "#ff8839ef"        # mauve
   secondaryVariant: "#ff4c4f69" # text
   background: "#ffeff1f5"       # base
-  menus: "#ff8839ef"            # mauve
+  menus: "#ffccd0da"            # surface0
   title: "#ff8839ef"            # mauve
-  sentMessage: "#ff4c4f69"      # text
-  receivedMessage: "#ff4c4f69"  # text
+  sentMessage: "#ffccd0da"      # surface0
+  receivedMessage: "#ffccd0da"  # surface0
