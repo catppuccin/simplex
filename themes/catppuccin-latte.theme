@@ -1,0 +1,11 @@
+base: "LIGHT"
+colors:
+  accent: "#ea76cb"
+  accentVariant: "#8839ef"
+  secondary: "#ea76cb"
+  secondaryVariant: "#8839ef"
+  background: "#eff1f5"
+  menus: "#ccd0da"
+  title: "#7287fd"
+  sentMessage: "#4c4f69"
+  receivedMessage: "#4c4f69"
