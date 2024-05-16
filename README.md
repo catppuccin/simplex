@@ -19,28 +19,27 @@
 
 <details>
 <summary>🌻 Latte</summary>
-<img src="assets/simplex-latte.webp"/>
+<img src="assets/latte.webp"/>
 </details>
 <details>
 <summary>🪴 Frappé</summary>
-<img src="assets/simplex-frappe.webp"/>
+<img src="assets/frappe.webp"/>
 </details>
 <details>
 <summary>🌺 Macchiato</summary>
-<img src="assets/simplex-macchiato.webp"/>
+<img src="assets/macchiato.webp"/>
 </details>
 <details>
 <summary>🌿 Mocha</summary>
-<img src="assets/simplex-mocha.webp"/>
+<img src="assets/mocha.webp"/>
 </details>
 
 ## Usage
 
-1. Download your favourite flavour from this repository
-2. Open the app's settings
-3. Go to `Appearance` -> `Customize theme`
-4. Select `Import theme` and browse to where you downloaded your Catppuccin's flavour
-5. Select the flavour.theme file
+1. Download the flavor of your choice from [`themes/`](./themes/).
+2. Open the Simplex's settings.
+3. Go to **Appearance** > **Customize theme** > **Import theme**.
+4. Upload your theme file.
 
 ## 💝 Thanks to
 
