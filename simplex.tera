@@ -1,21 +1,19 @@
 ---
 whiskers:
-  version: 2.1.0
+  version: 2.4.0
   matrix:
     - flavor
   filename: "themes/catppuccin-{{ flavor.identifier }}.theme"
+  hex_format: "#ff{{r}}{{g}}{{b}}"
 ---
-
-{%- set palette = flavor.colors -%}
-
 base: "{% if flavor.dark %}DARK{% else %}LIGHT{% endif %}"
 colors:
-  accent: "#ff{{ palette.mauve.hex }}"
-  accentVariant: "#ff{{ palette.mauve.hex }}"
-  secondary: "#ff{{ palette.pink.hex }}"
-  secondaryVariant: "#ff{{ palette.mauve.hex }}"
-  background: "#ff{{ palette.base.hex }}"
-  menus: "#ff{{ palette.surface0.hex }}"
-  title: "#ff{{ palette.lavender.hex }}"
-  sentMessage: "#ff{{ palette.surface0.hex }}"
-  receivedMessage: "#ff{{ palette.surface0.hex }}"
+  accent: "{{ mauve.hex }}"
+  accentVariant: "{{ mauve.hex }}"
+  secondary: "{{ pink.hex }}"
+  secondaryVariant: "{{ mauve.hex }}"
+  background: "{{ base.hex }}"
+  menus: "{{ surface0.hex }}"
+  title: "{{ lavender.hex }}"
+  sentMessage: "{{ surface0.hex }}"
+  receivedMessage: "{{ surface0.hex }}"
