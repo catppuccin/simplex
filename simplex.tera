@@ -10,12 +10,12 @@ whiskers:
 
 base: "{% if flavor.dark %}DARK{% else %}LIGHT{% endif %}"
 colors:
-  accent: "#ff{{ palette.pink.hex }}"
+  accent: "#ff{{ palette.mauve.hex }}"
   accentVariant: "#ff{{ palette.mauve.hex }}"
   secondary: "#ff{{ palette.pink.hex }}"
   secondaryVariant: "#ff{{ palette.mauve.hex }}"
   background: "#ff{{ palette.base.hex }}"
   menus: "#ff{{ palette.surface0.hex }}"
   title: "#ff{{ palette.lavender.hex }}"
-  sentMessage: "#ff{{ palette.text.hex }}"
-  receivedMessage: "#ff{{ palette.text.hex }}"
+  sentMessage: "#ff{{ palette.surface0.hex }}"
+  receivedMessage: "#ff{{ palette.surface0.hex }}"
