@@ -1,11 +1,11 @@
 base: "LIGHT"
 colors:
-  accent: "#ff8839ef"           # mauve
-  accentVariant: "#ff8839ef"    # mauve
-  secondary: "#ffea76cb"        # pink
-  secondaryVariant: "#ff8839ef" # mauve
-  background: "#ffeff1f5"       # base
-  menus: "#ffccd0da"            # surface 0
-  title: "#ff7287fd"            # lavender
-  sentMessage: "#ffccd0da"      # surface 0
-  receivedMessage: "#ffccd0da"  # surface 0
+  accent: "#ff8839ef"
+  accentVariant: "#ff8839ef"
+  secondary: "#ffea76cb"
+  secondaryVariant: "#ff8839ef"
+  background: "#ffeff1f5"
+  menus: "#ffccd0da"
+  title: "#ff7287fd"
+  sentMessage: "#ffccd0da"
+  receivedMessage: "#ffccd0da"

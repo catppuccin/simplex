@@ -1,11 +1,11 @@
 base: "DARK"
 colors:
-  accent: "#ffca9ee6"           # mauve
-  accentVariant: "#ffca9ee6"    # mauve
-  secondary: "#fff4b8e4"        # pink
-  secondaryVariant: "#ffca9ee6" # mauve
-  background: "#ff303446"       # base
-  menus: "#ff414559"            # surface 0
-  title: "#ffbabbf1"            # lavender
-  sentMessage: "#ff414559"      # surface 0
-  receivedMessage: "#ff414559"  # surface 0
+  accent: "#ffca9ee6"
+  accentVariant: "#ffca9ee6"
+  secondary: "#fff4b8e4"
+  secondaryVariant: "#ffca9ee6"
+  background: "#ff303446"
+  menus: "#ff414559"
+  title: "#ffbabbf1"
+  sentMessage: "#ff414559"
+  receivedMessage: "#ff414559"
