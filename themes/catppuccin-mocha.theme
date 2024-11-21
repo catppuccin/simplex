@@ -7,5 +7,8 @@ colors:
   background: "#ff1e1e2e"
   menus: "#ff313244"
   title: "#ffb4befe"
+  accentVariant2: "#ffb4befe"
   sentMessage: "#ff313244"
+  sentReply: "#ff45475a"
   receivedMessage: "#ff313244"
+  receivedReply: "#ff45475a"
