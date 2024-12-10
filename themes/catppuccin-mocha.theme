@@ -12,3 +12,8 @@ colors:
   sentReply: "#ff45475a"
   receivedMessage: "#ff313244"
   receivedReply: "#ff45475a"
+wallpaper:
+  preset: "cats"
+  scale: 1.5
+  background: "#ff1e1e2e"
+  tint: "#ff11111b"
