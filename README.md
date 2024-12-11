@@ -36,15 +36,15 @@
 
 ## Usage
 
-1. Download the flavor of your choice from [`themes/`](./themes/).
-2. Open the Simplex's settings.
+1. Download the flavor of your choice from [`/themes`](./themes/).
+2. Open SimpleX settings.
 3. Go to **Appearance** > **Customize theme** > **Import theme**.
-4. Upload your theme file.
+4. Select your theme file.
 
 ## 💝 Thanks to
 
 - [Iván Ruzo](https://github.com/iruzo)
-- [kremzli](https://github.com/kremzli)
+- [Kremzli](https://github.com/kremzli)
 
 &nbsp;
 
