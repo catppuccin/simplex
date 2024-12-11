@@ -36,7 +36,7 @@
 
 ## Usage
 
-1. Download the flavor of your choice from [`/themes`](./themes/).
+1. Download the flavor of your choice from [`themes/`](./themes/).
 2. Open SimpleX settings.
 3. Go to **Appearance** > **Customize theme** > **Import theme**.
 4. Select your theme file.
